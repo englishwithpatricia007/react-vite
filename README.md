@@ -16,6 +16,7 @@ Este é um projeto React criado com Vite para demonstrar um sistema básico de c
    ```bash
    npm install
 2. **Inicie o servidor de desenvolvimento**:
-   ```bash npm run dev
+   ```bash
+   npm run dev
 3. **Acesse no navegador:** O projeto estará disponível em http://localhost:5173.
    
